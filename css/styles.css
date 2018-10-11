@@ -1,0 +1,13 @@
+.imgstyle {
+  width: 100%
+}
+.jumbotron {
+  text-align: center;
+}
+
+.price {
+  float: right;
+  font-family: fantasy;
+  font-weight: bold;
+  color: red;
+}
